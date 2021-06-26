@@ -56,7 +56,7 @@ Le service RH a pour mission de gérer les salariés des différents services de
 
 Evidemment, le service RH tient l'historique des rémunérations de chaque salarié. Attention, on ne parle pas ici des fiches de paie (qui sont gérées par le service comptable et qui n'a pas d'intérêt dans ce projet). Ce qui intéresse le service RH, c'est de savoir quelle est la rémunération actuelle d'un salarié et quelles étaient ses anciennes rémunérations. Ainsi, on peut voir l'évolution de la rémunération pour chaque salarié et à quels moments celle ci a évolué.
 
-## Débutants : On numérise le service RH
+# Débutants : On numérise le service RH
 
 Votre mission sera de réfléchir, concevoir et réaliser la structure de données qui sera capable de stocker **les données du service RH**.
 
@@ -72,7 +72,7 @@ Une fois que la structure vous semble bonne, vous devrez créer la base de donn�
 - Récupérer les évolutions de rémunération d'un salarié donné en ordonnant par année de façon décroissante (un historique des évolutions)
 - Récupérer le nombre total d'employés de chaque service ainsi que la rémunération totale de ses employés (ce que coûte chaque service à l'entreprise)
 
-## Avancés : On numérise tout le SI
+# Avancés : On numérise tout le SI
 
 Votre mission sera de réfléchir, concevoir et réaliser la structure de données qui sera capable de stocker **toutes les données du SI**.
 
